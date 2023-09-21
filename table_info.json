@@ -1,0 +1,23 @@
+{
+  "public": {
+    "testing": {
+      "primaryKeys": [
+        "id"
+      ],
+      "columns": [
+        "id",
+        "name"
+      ],
+      "rowCount": "3"
+    },
+    "test_view": {
+      "primaryKeys": [],
+      "columns": [
+        "id",
+        "name"
+      ],
+      "rowCount": "3"
+    }
+  },
+  "test_schema": {}
+}

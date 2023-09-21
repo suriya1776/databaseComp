@@ -1,0 +1,27 @@
+{
+  "public": {
+    "tables": [
+      "testing",
+      "test_view"
+    ],
+    "procedures": [],
+    "views": [
+      "test_view"
+    ],
+    "indexes": [
+      "testing_pkey"
+    ],
+    "sequences": [
+      "test_sequence"
+    ]
+  },
+  "test_schema": {
+    "tables": [],
+    "procedures": [
+      "add_numbers"
+    ],
+    "views": [],
+    "indexes": [],
+    "sequences": []
+  }
+}
